@@ -1,5 +1,5 @@
 {
-  "5": {
+  "1": {
     "title": "Admin Student Management System ",
     "description": "Built a mobile application with advanced features, including friend requests, bill splitting, group creation, and due date tracking.",
     "githubUrl": "https://github.com/ksnklekha",
@@ -7,7 +7,7 @@
     "imageUrl": "github_explorer_screenshot.png",
     "technologies": ["Spring Boot", "React Native"]
   },
-  "4": {
+  "2": {
     "title": "Movie Recommendation System ",
     "description": "Developed a comprehensive 16-bit computer system simulator with a custom Instruction Set Architecture comprising 64 unique instructions. Implemented architecture, including the CPU, memory management, and control unit, to accurately mimic behavior of a real computer system.",
     "githubUrl": "https://github.com/ksnklekha",
@@ -23,7 +23,7 @@
     "imageUrl": "github_explorer_screenshot.png",
     "technologies": ["Node JS", "React JS"]
   },
-  "2": {
+  "4": {
     "title": " Dimensionality Reduction in High Dimensional Data",
     "description": "Created a Temperature Monitor utilizing MQTT & CoAP protocols to trace temperature, humidity and engineered a robust notification system to deliver critical weather warnings to subscribed users via mobile and email.",
     "githubUrl": "https://github.com/ksnklekha",
@@ -31,7 +31,7 @@
     "imageUrl": "github_explorer_screenshot.png",
     "technologies": ["Python", "MQTT", "CoAP", "RESTful API"]
   },
-  "1": {
+  "5": {
     "title": "Income Classification ",
     "description": "Constructed an e-commerce website for office stationery sales, featuring a user-friendly interface and back-end authorization system for seamless product management by sellers.",
     "githubUrl": "https://github.com/ksnklekha",
